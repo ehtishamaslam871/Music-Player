@@ -23,7 +23,7 @@ A clean and minimal music player built using **HTML**, **CSS**, and **JavaScript
 
    ```bash
    git clone https://github.com/EhtishamAslam/simple-music-player.git
-   cd simple-music-player
+   cd simple-music-player](https://github.com/ehtishamaslam871/Music-Player.git)
 
 ---
 
