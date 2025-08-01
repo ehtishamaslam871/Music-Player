@@ -17,15 +17,6 @@ A clean and minimal music player built using **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 🚀 How to Use
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/EhtishamAslam/simple-music-player.git
-   cd simple-music-player](https://github.com/ehtishamaslam871/Music-Player.git)
-
----
 
 ## Run the player:
 
@@ -49,13 +40,13 @@ Or use Live Server in VS Code for real-time testing
 
 ## 🛠️ Technologies Used
 
--HTML5
+-  HTML5
 
--CSS3 (Flexbox, media queries, transitions)
+-  CSS3 (Flexbox, media queries, transitions)
 
--JavaScript (DOM, Audio API)
+-  JavaScript (DOM, Audio API)
 
--Font Awesome for control icons
+-  Font Awesome for control icons
 
 
 ----
